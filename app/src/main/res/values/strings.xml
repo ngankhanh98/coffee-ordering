@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">coffee-ordering</string>
+    <string name="txt_res_quantity">Quantity:</string>
+    <string name="txt_res_unit">VNĐ</string>
+    <string name="txt_res_plussign">+</string>
+    <string name="btn_res_minussign">-</string>
+    <string name="txt_res_total">Total:</string>
+    <string name="txt_showTotal">0</string>
+    <string name="txt_showQuantity">0</string>
+    <string name="btn_res_order">order</string>
 </resources>
