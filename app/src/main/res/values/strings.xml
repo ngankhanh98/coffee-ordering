@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">coffee-ordering</string>
+    <string name="app_name">Coffee Ordering</string>
     <string name="txt_res_quantity">Quantity:</string>
     <string name="txt_res_unit">VNĐ</string>
     <string name="txt_res_plussign">+</string>
